@@ -1,6 +1,15 @@
-# Anon - An eCommerce Website
+<div align="center">
+  
+ 
+  <img src="/assets/images/logo/logo.svg" />
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices.
+  <h2 align="center">Anon - An eCommerce Website</h2>
+
+  This website is fully responsive personal portfolio, <br />Responsive for all devices.
+
+  <a href="https://syr-vcard-portfolio-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
 
 ## Demo
 
