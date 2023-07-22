@@ -1,13 +1,13 @@
 <div align="center">
   
  
-  <img src="/assets/images/logo/logo.svg" />
+  <img src="/assets/images/logo/favicon.ico" />
 
   <h2 align="center">Anon - An eCommerce Website</h2>
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices.
 
-  <a href="https://syr-vcard-portfolio-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://syr-anon-ecommerce-prototype-demo.vercel.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -29,13 +29,13 @@ To install **Anon**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/Sufi-Yan-Raza/sc-syr-anon-ecommerce-prototype-demo.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/Sufi-Yan-Raza/sc-syr-anon-ecommerce-prototype-demo.git
 ```
 
 ## License
